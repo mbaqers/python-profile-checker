@@ -4,10 +4,10 @@ age=input("enter you'r age: ")
 if not age.isdigit():
     age=input("please enter your age in digits: ")
    
-graduated=input("Are you graduated('yes' or 'no')? ")
+graduated=input("Are you graduated('yes' or 'no')?")
 if graduated !="yes" or  graduated != "no":
     print("answer by yes or no")
-    graduated=input("Are you graduated('yes' or 'no')? ")
+    graduated=input("Are you graduated('yes' or 'no')?")
 fOI=input("what are the field you intersted in? ")
 gpa=input("enter your GPA: ")
 
