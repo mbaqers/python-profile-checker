@@ -1,4 +1,4 @@
- Python program that asks the user for the following information:
+ <h1>Python program that asks the user for the following information:<\h1><\br>
     Name, Age, GPA (0-5, can be decimals), Field of Interest, Graduated ("yes" or "no").
 1- Print a nicely formatted 
 2- Based on the info, determine and print:
